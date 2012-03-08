@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Mobileblog]]></title>
+  <link href="http://mobileblog.github.com/atom.xml" rel="self"/>
+  <link href="http://mobileblog.github.com/"/>
+  <updated>2012-03-07T23:11:47-03:00</updated>
+  <id>http://mobileblog.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Futuro Mobile]]></title>
+    <link href="http://mobileblog.github.com/blog/2012/03/07/futuro-mobile/"/>
+    <updated>2012-03-07T23:04:00-03:00</updated>
+    <id>http://mobileblog.github.com/blog/2012/03/07/futuro-mobile</id>
+    <content type="html"><![CDATA[<p>Não adianta fugir. O futuro é mobile galera!</p>
+]]></content>
+  </entry>
+  
+</feed>
